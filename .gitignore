@@ -6,6 +6,9 @@
 *.user
 *.sln.docstates
 
+# FedEx Configuration File
+credentials.config
+
 # Build results
 
 [Dd]ebug/
